@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding C++ (im cooked)
 - 🌱 I’m currently learning C++
 - 📫 How to reach me (edit i no longer use discord ((AI verication and all that)))
+  Telegram - @lEm0n_PaRty (weird name i know)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i have a slight idea what im doing
 
