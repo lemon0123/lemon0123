@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lemon0123
-- 👀 I’m interested in coding html and stuff like that
-- 🌱 I’m currently learning html what else
-- 📫 How to reach me discord - lemonparty0841
-- 😄 Pronouns: thwey/them
-- ⚡ Fun fact: i still have no idea what im doing
+- 👀 I’m interested in coding C++ (im cooked)
+- 🌱 I’m currently learning C++
+- 📫 How to reach me (edit i no longer use discord ((AI verication and all that)))
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i have a slight idea what im doing
 
 <!---
 lemon0123/lemon0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
